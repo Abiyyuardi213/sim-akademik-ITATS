@@ -16,6 +16,12 @@ switch ($modul) {
         $controllerRole->handleRequestRole($fitur);
         break;
 
+    case 'pengguna':
+        require_once './app/Http/Controllers/PenggunaController.php';
+        $controllerPengguna = new ControllerPengguna();
+        $controllerPengguna->handleRequestPengguna($fitur);
+        break;
+
     default:
         include './services/404notfound.php';
         break;

@@ -11,7 +11,7 @@
         <!-- Sidebar user -->
         <div class="user-panel mt-3 pb-3 mb-3 d-flex">
             <div class="info">
-                <a href="#" class="d-block">Abiyyu Ardilian</a>
+                <a href="#" class="d-block">Akademik ITATS</a>
             </div>
         </div>
 
@@ -36,7 +36,7 @@
                         <p>Pengguna</p>
                     </a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a href="index.php?modul=divisi&fitur=list" class="nav-link">
                         <i class="nav-icon fas fa-sitemap"></i>
                         <p>Divisi</p>
@@ -53,7 +53,7 @@
                         <i class="nav-icon fas fa-tasks"></i>
                         <p>Proker</p>
                     </a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="nav-icon fas fa-bullhorn"></i>
